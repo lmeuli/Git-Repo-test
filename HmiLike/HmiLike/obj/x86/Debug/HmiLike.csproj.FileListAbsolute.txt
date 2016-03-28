@@ -1,0 +1,106 @@
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\MainWindow.baml
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\MainWindow.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\App.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.cache
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike.g.resources
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike.Properties.Resources.resources
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.baml
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.baml
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.baml
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.lref
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\bin\Debug\HmiLike.exe
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\bin\Debug\HmiLike.pdb
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.baml
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike.exe
+c:\users\mesta\documents\visual studio 2010\Projects\HmiLike\HmiLike\obj\x86\Debug\HmiLike.pdb
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike.exe
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike.pdb
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\MainWindow.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\App.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.cache
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.lref
+C:\Users\mesta\Desktop\HmiLike\HmiLike\bin\Debug\HmiLike.exe
+C:\Users\mesta\Desktop\HmiLike\HmiLike\bin\Debug\HmiLike.pdb
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike.g.resources
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike.Properties.Resources.resources
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\HmiLike.csproj.GenerateResource.Cache
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\PageWithParameter.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\PageWithParameter.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\WndEditPerson.baml
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\WndEditPerson.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\PageEditPerson.g.cs
+C:\Users\mesta\Desktop\HmiLike\HmiLike\obj\x86\Debug\Pages\PageEditPerson.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.exe
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.pdb
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\bin\Debug\HmiLike.exe
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\bin\Debug\HmiLike.pdb
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\MainWindow.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\WndEditPerson.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\PageEditPerson.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\PageWithParameter.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\WndEditPerson.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\App.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.cache
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.lref
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\PageEditPerson.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\Pages\PageWithParameter.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.g.resources
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.Properties.Resources.resources
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\HmiLike\HmiLike\HmiLike\obj\x86\Debug\HmiLike.csproj.GenerateResource.Cache
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\HmiLike.exe
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\HmiLike.pdb
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\bin\Debug\HmiLike.exe
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\bin\Debug\HmiLike.pdb
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\HmiLike.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\MainWindow.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\WndEditPerson.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\PageEditPerson.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\PageWithParameter.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\SwitcherMenu.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\WndEditPerson.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\App.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.cache
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\HmiLike_MarkupCompile.lref
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\Page1.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\Page2.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\Page3.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\PageEditPerson.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\Pages\PageWithParameter.baml
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\HmiLike.g.resources
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\HmiLike.Properties.Resources.resources
+C:\Users\lukas\Documents\Visual Studio 2015\Git Repo test\HmiLike\HmiLike\obj\x86\Debug\HmiLike.csproj.GenerateResource.Cache

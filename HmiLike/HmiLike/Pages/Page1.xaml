@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="HmiLike.Pages.Page1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:pages="clr-namespace:HmiLike.Pages"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <pages:SwitcherMenu Grid.Row="0"/>
+        <Label Content="Hallo ich bin page 1" FontSize="25" FontWeight="Bold"  Grid.Row="1" Height="78" HorizontalAlignment="Left" Margin="302,115,0,0" Name="label1" VerticalAlignment="Top" Width="231" />
+        <Button Content="Open a page that needs a parameter" FontSize="25" FontWeight="Bold" Grid.Row="1" Height="69" HorizontalAlignment="Center" Margin="0,274,0,0" VerticalAlignment="Top" Width="489" Click="btnPageWithParameter_Click" />
+        <Button Content="Create new Person" FontSize="25" FontWeight="Bold" Grid.Row="1" Height="69" HorizontalAlignment="Center" Margin="0,392,0,0" VerticalAlignment="Top" Click="btnCreateNewPerson_Click" Width="273" />
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF97BEBD" Offset="0" />
+                <GradientStop Color="White" Offset="1" />
+            </LinearGradientBrush>
+        </Grid.Background>
+    </Grid>
+</UserControl>
