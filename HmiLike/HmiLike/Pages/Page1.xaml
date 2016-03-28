@@ -12,7 +12,7 @@
             <RowDefinition />
         </Grid.RowDefinitions>
         <pages:SwitcherMenu Grid.Row="0"/>
-        <Label Content="Hallo ich bin page 1" FontSize="25" FontWeight="Bold"  Grid.Row="1" Height="78" HorizontalAlignment="Left" Margin="264,115,0,0" Name="label1" VerticalAlignment="Top" Width="357" />
+        <Label Content="Hallo ich bin Seite 1" FontSize="25" FontWeight="Bold"  Grid.Row="1" Height="78" HorizontalAlignment="Left" Margin="264,115,0,0" Name="label1" VerticalAlignment="Top" Width="357" />
         <Button Content="Open a page that needs a parameter" FontSize="25" FontWeight="Bold" Grid.Row="1" Height="69" HorizontalAlignment="Center" Margin="0,274,0,0" VerticalAlignment="Top" Width="489" Click="btnPageWithParameter_Click" />
         <Button Content="Create new Person" FontSize="25" FontWeight="Bold" Grid.Row="1" Height="69" HorizontalAlignment="Center" Margin="0,392,0,0" VerticalAlignment="Top" Click="btnCreateNewPerson_Click" Width="273" />
         <Grid.Background>
