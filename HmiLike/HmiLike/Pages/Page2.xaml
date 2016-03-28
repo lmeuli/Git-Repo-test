@@ -12,7 +12,7 @@
             <RowDefinition />
         </Grid.RowDefinitions>
         <pages:SwitcherMenu Grid.Row="0"/>
-        <Label Content="Hello i'm page 2" FontSize="25" FontWeight="Bold"  Grid.Row="1" Height="78" HorizontalAlignment="Left" Margin="10,10,0,0" Name="label1" VerticalAlignment="Top" Width="231" />
+        <Label Content="Hallo in bin Seite 2" FontSize="25" FontWeight="Bold"  Grid.Row="1" Height="78" HorizontalAlignment="Left" Margin="10,10,0,0" Name="label1" VerticalAlignment="Top" Width="231" />
         <Button x:Name="Annabtn" Content="Gib Anna" HorizontalAlignment="Left" Height="43" Margin="82,108,0,0" Grid.Row="1" VerticalAlignment="Top" Width="107" Click="Annabtn_Click"/>
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="114" Margin="82,192,0,0" Grid.Row="1" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="258"/>
         <Grid.Background>
